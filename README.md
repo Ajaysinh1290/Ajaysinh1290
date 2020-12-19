@@ -1,6 +1,6 @@
 # Hi there 👋  I'm Ajay
 
-* 🔭 I’m currently working on Weather App
+* 🔭 I’m currently working on Personal Project
 * 🌱 I’m currently learning Flutter
 * 👯 I’m looking to collaborate on Instagram 
 * 💬 Ask me about java and flutter
