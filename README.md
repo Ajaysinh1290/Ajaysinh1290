@@ -15,9 +15,8 @@
 <img align="left" src="https://img.icons8.com/color/40/000000/css3.png"/>
 <img align="left" height="40" src="https://cdn.worldvectorlogo.com/logos/mysql.svg">
 <img align="left" src="https://img.icons8.com/color/40/000000/flutter.png"/>
-<img align="left" src="https://img.icons8.com/color/40/000000/dart.png">
-  <br> <br>
-
+<img src="https://img.icons8.com/color/40/000000/dart.png">
+  
 </div>
 
 
@@ -30,7 +29,7 @@
 <img align="left" src="https://img.icons8.com/color/40/000000/ubuntu.png"/>
 <img align="left" src="https://img.icons8.com/fluent/40/000000/console.png"/>
 <img align="left" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/1200px-Android_Studio_icon.svg.png"/>
-<img align="left" src="https://img.icons8.com/fluent/40/000000/visual-studio-code-2019.png"/><br><br>
+<img src="https://img.icons8.com/fluent/40/000000/visual-studio-code-2019.png"/><br><br>
 </div>
   
   
