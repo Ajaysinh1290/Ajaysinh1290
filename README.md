@@ -1,4 +1,7 @@
-# Hi there 👋  I'm Ajay
+
+![](https://komarev.com/ghpvc/?username=Ajaysinh1290)
+
+# Hi there 👋  I'm Ajay 
 
 * 🔭 I’m currently working on Personal Project
 * 🌱 I’m currently learning Flutter
@@ -44,3 +47,4 @@
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ajaysinh1290&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" />
+
