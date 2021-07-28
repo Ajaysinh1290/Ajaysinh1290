@@ -1,53 +1,42 @@
-.
-![](https://komarev.com/ghpvc/?username=Ajaysinh1290)
-
-# Hi there 👋  I'm Ajay 
-
-* 🔭 I’m currently working on Personal Project
-* 🌱 I’m currently learning Flutter
-* 👯 I’m looking to collaborate on Instagram 
-* 💬 Ask me about java and flutter
-* 🏛️ Student at Silveroak University
-
-## Languages 
-<div>
-<img align="left" src="https://img.icons8.com/color/40/000000/c-programming.png"/>
-<img align="left" src="https://img.icons8.com/color/40/000000/c-plus-plus-logo.png"/>
-<img align="left" src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png"/>
-<img align="left" src="https://img.icons8.com/color/40/000000/html-5.png"/>
-<img align="left" src="https://img.icons8.com/color/40/000000/css3.png"/>
-<img align="left" height="40" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg">
-<img align="left" src="https://img.icons8.com/color/40/000000/flutter.png"/>
-<img src="https://img.icons8.com/color/40/000000/dart.png">
-  
+<div  align="center" > 
+      <img width="500" height="400" src="https://raw.githubusercontent.com/gist/abnsl0014/9d726586bd9246d133a9ddc6391cd2f0/raw/9a0d296d5f8549a8872ca0c3bcfdf3166a915c9e/computer.gif"/>
+      <h1>Hi there 👋 I'm Ajay</h1>
+      <img src="https://komarev.com/ghpvc/?username=Ajaysinh1290&color=orange&style=flat-square&label=P+R+O+F+I+L+E+ +V+I+E+W+S" alt="">
 </div>
-
-
-## Tools
-
+<br>
+<div align="center" >
+      <pre>
+      I’m currently working on something cool. 
+      I’m currently learning Web Development. 
+      I’m looking to collaborate on Instagram. 
+      Ask me about Java and Flutter. 
+      Student at Silveroak University. 
+      Love to solve real world problems.
+      </pre> 
+<br>
+<div align="center">
+      <pre>S K I L L S</pre>
+      <img src="https://img.shields.io/badge/c-orange?style=for-the-badge&logo=c&logoColor=22272E&labelColor=f0f0f0">
+      <img src="https://img.shields.io/badge/java-orange?style=for-the-badge&logo=java&logoColor=22272E&labelColor=f0f0f0">
+      <img src="https://img.shields.io/badge/flutter-orange?style=for-the-badge&logo=flutter&logoColor=22272E&labelColor=f0f0f0">
+      <img src="https://img.shields.io/badge/firebase-orange?style=for-the-badge&logo=firebase&logoColor=22272E&labelColor=f0f0f0">
+      <img src="https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html5&logoColor=22272E&labelColor=f0f0f0">
+      <img src="https://img.shields.io/badge/css-orange?style=for-the-badge&logo=firebase&logoColor=22272E&labelColor=f0f0f0">
+      <img src="https://img.shields.io/badge/figma-orange?style=for-the-badge&logo=figma&logoColor=22272E&labelColor=f0f0f0">
 <div>
-<img align="left" height="40" src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png"/>
-<img align="left" src="https://img.icons8.com/color/40/000000/git.png"/>
-<img align="left" src="https://img.icons8.com/fluent/40/000000/github.png"/>
-<img align="left" src="https://img.icons8.com/color/40/000000/ubuntu.png"/>
-<img align="left" src="https://img.icons8.com/fluent/40/000000/console.png"/>
-<img align="left" width="40" src="https://user-images.githubusercontent.com/63580687/118648433-05197f80-b800-11eb-90aa-4abc8cfab950.png"/>
-<img  align="left" src="https://img.icons8.com/fluent/40/000000/figma.png"/>
-<img src="https://img.icons8.com/fluent/40/000000/visual-studio-code-2019.png"/><br><br>
+<br>
+<div align="center">
+        <pre>F I N D  M E  A T</pre>
+        <a href="https://www.instagram.com/ll_ajayrathod_ll/" target="_blank"><img src="https://img.shields.io/badge/Instagram-F58529?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+        <a href="https://www.youtube.com/channel/UCbhGYVadJsZtJzHYMWLNRRQ" target="_blank"><img src="https://img.shields.io/badge/Youtube-fd1d1d?&style=for-the-badge&logo=youtube&logoColor=white" alt="Instagram"></a>
+        <a href="https://dribbble.com/Ajaysinh1290" target="_blank"><img src="https://img.shields.io/badge/Dribbble-e1306c?&style=for-the-badge&logo=dribbble&logoColor=white" alt="Instagram"></a>
 </div>
-
-  
-## Connect with me
-
-[![Instagram](https://img.icons8.com/ios/40/000000/instagram-new--v2.png)](https://www.instagram.com/ll_ajayrathod_ll/)&nbsp;&nbsp;&nbsp;
-[![Facebook](https://img.icons8.com/android/40/000000/facebook-new.png)](https://www.facebook.com/ajaysinh.rathod.7927)&nbsp;&nbsp;&nbsp;
-[![Youtube](https://img.icons8.com/small/40/000000/youtube.png)](https://www.youtube.com/channel/UCbhGYVadJsZtJzHYMWLNRRQ)&nbsp;&nbsp;&nbsp;
-[![Twitter](https://img.icons8.com/android/40/000000/twitter.png)](https://twitter.com/Ajaysin34751867)&nbsp;&nbsp;&nbsp;
-[<img height="50" src="https://user-images.githubusercontent.com/63580687/118647663-3776ad00-b7ff-11eb-9db1-8522bf3c753b.png"/>](https://www.hackerrank.com/ajaysinhrathod11)&nbsp;&nbsp;&nbsp;
-[<img src="https://img.icons8.com/fluent-systems-filled/42/000000/dribbble.png"/>](https://dribbble.com/Ajaysinh1290)
+<br>
+<div align="center">
+    <pre>G I T H U B  S T A T S</pre>
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ajaysinh1290&show_icons=true&include_all_commits=true&title_color=F58529&icon_color=F58529" alt="Ajaysinh's github stats" /> 
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ajaysinh1290&layout=compact&langs_count=8&title_color=F58529"/>
+</div>
 
 <br>
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ajaysinh1290&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" />
-
