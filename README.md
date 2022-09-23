@@ -25,7 +25,7 @@
 <br>
 <div align="center">
         <pre>F I N D  M E  A T</pre>
-        <a href="https://www.instagram.com/ll_ajayrathod_ll/" target="_blank"><img src="https://img.shields.io/badge/Instagram-F58529?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+        <a href="https://www.instagram.com/__ajaysinh/" target="_blank"><img src="https://img.shields.io/badge/Instagram-F58529?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
         <a href="https://www.youtube.com/channel/UCbhGYVadJsZtJzHYMWLNRRQ" target="_blank"><img src="https://img.shields.io/badge/Youtube-fd1d1d?&style=for-the-badge&logo=youtube&logoColor=white" alt="Instagram"></a>
         <a href="https://dribbble.com/Ajaysinh1290" target="_blank"><img src="https://img.shields.io/badge/Dribbble-e1306c?&style=for-the-badge&logo=dribbble&logoColor=white" alt="Instagram"></a>
 </div>
