@@ -5,11 +5,10 @@
 </div>
 <br>
 <div align="center">
-      I’m currently working as an Intern at <b>@IBM</b>. <br>
-      I’m currently learning Web Development. <br>
+      I’m currently working as Software Developer at <b>@IBM</b>. <br>
+      I’m currently learning Go, React Js, Next Js<br>
       I’m looking to collaborate on Instagram. <br>
       Ask me about Java and Flutter. <br>
-      Student at Silveroak University. <br>
       A Learner Forever.<br>
 <br>
 <div align="center">
